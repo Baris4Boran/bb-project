@@ -25,3 +25,4 @@ Built with [Next.js](https://nextjs.org/) — a real-time controllable visual in
 | Project Lead & Coordination | Barış Boran Polat|
 
 
+bb-project-pi.vercel.app

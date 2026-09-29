@@ -23,3 +23,4 @@ Built with [Next.js](https://nextjs.org/) — a real-time controllable visual in
 | Visual Design | Duru Nehir Ovacık |
 | Software & Web Development | Barış Boran Polat|
 | Project Lead & Coordination | Barış Boran Polat|
+
